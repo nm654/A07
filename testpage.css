@@ -1,0 +1,19 @@
+/**I couldn't find the file in my folder so I'm doing it by hand and hopefully it works
+ based off figure 2-11 and the book edit**/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    width: 500px;
+    border: 2px solid blue;
+}
+
+h1 {
+    margin: 0;
+    padding: .25em;
+    font-size: 180%;
+    color: Blue;
+}
+p {
+    margin: 0 auto;
+    padding: 1em;
+}
